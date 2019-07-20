@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main4() {
 
 	int arr1[2][3];
 	int arr2[2][2] = { {1,2},{3,4} };

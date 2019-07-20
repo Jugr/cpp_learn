@@ -127,6 +127,15 @@
     <ClCompile Include="02.cpp" />
     <ClCompile Include="03.cpp" />
     <ClCompile Include="04.cpp" />
+    <ClCompile Include="05_refer.cpp" />
+    <ClCompile Include="06_point.cpp" />
+    <ClCompile Include="08_enum.cpp" />
+    <ClCompile Include="07_struct.cpp" />
+    <ClCompile Include="09_refer_name.cpp" />
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

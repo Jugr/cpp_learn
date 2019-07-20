@@ -27,5 +27,28 @@
     <ClCompile Include="04.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05_refer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06_point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08_enum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09_refer_name.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
