@@ -132,6 +132,7 @@
     <ClCompile Include="08_enum.cpp" />
     <ClCompile Include="07_struct.cpp" />
     <ClCompile Include="09_refer_name.cpp" />
+    <ClCompile Include="10_operator.cpp" />
     <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>

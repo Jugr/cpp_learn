@@ -11,7 +11,7 @@ void change_value2(int& re) {
 	re = 40;
 }
 
-int main() {
+int main9() {
 
 	int a = 10;
 
